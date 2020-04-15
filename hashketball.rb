@@ -51,8 +51,8 @@ def game_hash
         },
         {
           :player_name => "Jason Terry",
-          :Number => 31,
-          :Shoe => 15,
+          :number => 31,
+          :se => 15,
           :Points => 19,
           :Rebounds => 2,
           :Assists => 2,
