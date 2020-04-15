@@ -28,20 +28,20 @@ def game_hash
          :slam_Dunks => 7
         },
         {
-          :player_name => "Brook Lopez",
-          :Number => 11,
-          :Shoe => 17,
-          :Points => 17,
-          :Rebounds => 19,
-          :Assists => 10,
-          :Steals => 3,
-          :Blocks => 1,
-          :Slam_Dunks => 15
+         :player_name => "Brook Lopez",
+         :number => 11,
+         :shoe => 17,
+         :points => 17,
+         :rebounds => 19,
+         :assists => 10,
+         :steals => 3,
+         :blocks => 1,
+         :slam_Dunks => 15
         },
         {
-          :player_name => "Mason Plumlee",
-          :Number => 1,
-          :Shoe => 19,
+         :player_name => "Mason Plumlee",
+         :number => 1,
+          :shoe => 19,
           :Points => 26,
           :Rebounds => 11,
           :Assists => 6,
