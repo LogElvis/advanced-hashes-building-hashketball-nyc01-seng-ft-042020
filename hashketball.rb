@@ -108,18 +108,18 @@ def game_hash
          :Assists => 2,
          :Steals => 1,
          :Blocks => 1,
-         :Slam_Dunks => 0 
+         :slam_Dunks => 0 
         },
         {
          :player_name => "Kemba Walker",
-         :Number => 33,
-         :Shoe => 15,
-         :Points => 6,
-         :Rebounds => 12,
-         :Assists => 12,
-         :Steals => 7,
-         :Blocks => 5,
-         :Slam_Dunks => 12
+         :number => 33,
+         :shoe => 15,
+         :points => 6,
+         :rebounds => 12,
+         :assists => 12,
+         :steals => 7,
+         :blocks => 5,
+         :slam_Dunks => 12
         }
       ]
     }
