@@ -58,7 +58,7 @@ def game_hash
           :Assists => 2,
           :Steals => 4,
           :Blocks => 11,
-          :Slam_Dunks => 1
+          :Slam_Dunks => 
         }
       ]
     }, 
