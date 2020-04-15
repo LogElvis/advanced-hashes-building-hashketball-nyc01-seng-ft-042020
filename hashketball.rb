@@ -16,6 +16,7 @@ def game_hash
           :Blocks => 1,
           :Slam_Dunks => 1 
         },
+        {
           :Player_Name => "Reggie Evans",
           :Number => 30,
           :Shoe => 14,
@@ -26,6 +27,7 @@ def game_hash
           :Blocks => 12,
           :Slam_Dunks => 7
         },
+        {
           :Player_Name => "Brook Lopez",
           :Number => 11,
           :Shoe => 17,
@@ -36,6 +38,7 @@ def game_hash
           :Blocks => 1,
           :Slam_Dunks => 15
         },
+        {
           :Player_Name => "Mason Plumlee",
           :Number => 1,
           :Shoe => 19,
@@ -46,6 +49,7 @@ def game_hash
           :Blocks => 8,
           :Slam_Dunks => 5
         },
+        {
           :Player_Name => "Jason Terry",
           :Number => 31,
           :Shoe => 15,
@@ -73,6 +77,7 @@ def game_hash
           :Blocks => 7,
           :Slam_Dunks => 2
         },
+        {
           :Player_Name => "Bismack Biyombo",
           :Number => 0,
           :Shoe => 16,
@@ -83,6 +88,7 @@ def game_hash
           :Blocks => 15,
           :Slam_Dunks => 10
         },
+        {
           :Player_Name => "DeSagna Diop",
           :Number => 2,
           :Shoe => 14,
@@ -93,6 +99,7 @@ def game_hash
           :Blocks => 5,
           :Slam_Dunks => 5 
         },
+        {
           :Player_Name => "Ben Gordon",
           :Number => 8,
           :Shoe => 15,
@@ -103,6 +110,7 @@ def game_hash
           :Blocks => 1,
           :Slam_Dunks => 0 
         },
+        {
           :Player_Name => "Kemba Walker",
           :Number => 33,
           :Shoe => 15,
