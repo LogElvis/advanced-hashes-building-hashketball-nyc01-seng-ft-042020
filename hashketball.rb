@@ -19,13 +19,13 @@ def game_hash
         {
          :player_name => "Reggie Evans",
          :number => 30,
-          :Shoe => 14,
-          :Points => 12,
-          :Rebounds => 12,
-          :Assists => 12,
-          :Steals => 12,
-          :Blocks => 12,
-          :Slam_Dunks => 7
+         :shoe => 14,
+         :Points => 12,
+         :rebounds => 12,
+         :assists => 12,
+         :steals => 12,
+         :blocks => 12,
+         :slam_Dunks => 7
         },
         {
           :player_name => "Brook Lopez",
