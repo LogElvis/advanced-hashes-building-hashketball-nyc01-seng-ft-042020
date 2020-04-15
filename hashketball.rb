@@ -101,14 +101,14 @@ def game_hash
         },
         {
          :player_name => "Ben Gordon",
-         :Number => 8,
-         :Shoe => 15,
-         :Points => 33,
-         :Rebounds => 3,
-         :Assists => 2,
-         :Steals => 1,
-         :Blocks => 1,
-         :slam_Dunks => 0 
+         :number => 8,
+         :shoe => 15,
+         :points => 33,
+         :rebounds => 3,
+         :assists => 2,
+         :steals => 1,
+         :blocks => 1,
+         :slam_dunks => 0 
         },
         {
          :player_name => "Kemba Walker",
@@ -119,7 +119,7 @@ def game_hash
          :assists => 12,
          :steals => 7,
          :blocks => 5,
-         :slam_Dunks => 12
+         :slam_dunks => 12
         }
       ]
     }
