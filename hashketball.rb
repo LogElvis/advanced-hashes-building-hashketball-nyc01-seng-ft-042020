@@ -25,7 +25,7 @@ def game_hash
          :assists => 12,
          :steals => 12,
          :blocks => 12,
-         :slam_Dunks => 7
+         :slam_dunks => 7
         },
         {
          :player_name => "Brook Lopez",
@@ -36,7 +36,7 @@ def game_hash
          :assists => 10,
          :steals => 3,
          :blocks => 1,
-         :slam_Dunks => 15
+         :slam_dunks => 15
         },
         {
          :player_name => "Mason Plumlee",
@@ -46,8 +46,8 @@ def game_hash
          :rebounds => 11,
          :assists => 6,
          :steals => 3,
-          :Blocks => 8,
-          :Slam_Dunks => 5
+         :blocks => 8,
+         :slam_dunks => 5
         },
         {
           :player_name => "Jason Terry",
